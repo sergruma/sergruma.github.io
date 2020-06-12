@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "default, "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "es-ES"
-title                    : "Servicio de Grúas y Maquinaria"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title                    : "SERGRUMA"
+title_separator          : "|"
+subtitle                 : "Servicio de Grúas y Maquinaria" # site tagline that appears below site title in masthead
 name                     : "SERGRUMA"
 description              : "Alquiler y venta de grúas y maquinaria de construcción en El Bierzo"
 url                      : "https://sergruma.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "SERGRUMA" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -70,9 +70,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "Sergruma"
 facebook:
-  username               :
+  username               : "Sergruma"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "SERGRUMA"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Soluciones para tu obra"
   location         : "Camponaraya"
   email            :
   links:
