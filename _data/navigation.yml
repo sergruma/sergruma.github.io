@@ -17,3 +17,16 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+servicios:
+  - title: Grúas
+    children:
+    - title: "Alquiler de grúas"
+      url: /servicios/alquiler-gruas/
+    - title: "Venta de grúas"
+      url: /servicios/venta-gruas/
+  - title: Maquinaria de construcción
+    children:
+    - title: "Alquiler de maquinaria"
+      url: /servicios/alquiler-maquinaria/
+    - title: "Venta de maquinaria"
+      url: /servicios/venta-maquinaria/
