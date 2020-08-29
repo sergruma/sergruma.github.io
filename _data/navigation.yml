@@ -2,13 +2,13 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Alquiler de Maquinaría"
+  - title: "Alquiler de Maquinaria"
     url: /maquinaria/
   - title: "Alquiler de Grúas"
     url: /gruas/
   - title: "Venta"
     url: /venta/
-    description: "Venta de grúas y maquinaria"
+    description: "Venta de Grúas y Maquinaria"
   - title: "Contacto"
     url: /contact/
   - title: "Blog"
