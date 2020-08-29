@@ -4,10 +4,10 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Alquiler de Maquinaría"
     url: /maquinaria/
-    
-  - title: "Grúas"
+  - title: "Alquiler de Grúas"
     url: /gruas/
-    
+  - title: "Venta"
+    url: /venta/
   - title: "Contacto"
     url: /contact/
   - title: "Blog"
