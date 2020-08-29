@@ -279,3 +279,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _servicios
+  - scope:
+      path: ""
+      type: servicios
+    values:
+      sidebar:
+        nav: "servicios"
