@@ -8,6 +8,7 @@ main:
     url: /gruas/
   - title: "Venta"
     url: /venta/
+    description: "Venta de grúas y maquinaria"
   - title: "Contacto"
     url: /contact/
   - title: "Blog"
